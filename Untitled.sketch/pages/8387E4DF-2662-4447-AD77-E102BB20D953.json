@@ -195,12 +195,12 @@
           },
           "rotation" : 0,
           "frame" : {
-            "x" : 162,
+            "x" : 99.370291540392287,
             "y" : 109,
             "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 178,
-            "width" : 126
+            "height" : 256.22378436658772,
+            "width" : 188.62970845960771
           },
           "do_objectID" : "5CAC6EB8-BC29-4E73-9AF6-9B2C897B9D50",
           "hasClickThrough" : false,
@@ -219,7 +219,7 @@
           "windingRule" : 1,
           "isFlippedVertical" : false,
           "clippingMaskMode" : 0,
-          "name" : "Oval",
+          "name" : "Combined Shape",
           "isVisible" : true,
           "hasClippingMask" : false,
           "layers" : [
@@ -227,7 +227,7 @@
               "isFlippedHorizontal" : false,
               "rotation" : 0,
               "frame" : {
-                "x" : 0,
+                "x" : 62.629708459607741,
                 "y" : 0,
                 "_class" : "rect",
                 "constrainProportions" : false,
@@ -250,7 +250,7 @@
               "edited" : false,
               "isFlippedVertical" : false,
               "nameIsFixed" : false,
-              "name" : "Path",
+              "name" : "Oval",
               "isVisible" : true,
               "resizingType" : 0,
               "isClosed" : true,
@@ -300,136 +300,9 @@
               "shouldBreakMaskChain" : false,
               "pointRadiusBehaviour" : 1,
               "_class" : "oval",
-              "booleanOperation" : -1,
+              "booleanOperation" : 0,
               "resizingConstraint" : 63
-            }
-          ],
-          "nameIsFixed" : false,
-          "resizingType" : 0,
-          "isLocked" : false,
-          "shouldBreakMaskChain" : false,
-          "_class" : "shapeGroup",
-          "resizingConstraint" : 63
-        },
-        {
-          "isFlippedHorizontal" : false,
-          "style" : {
-            "_class" : "style",
-            "miterLimit" : 10,
-            "do_objectID" : "0775E05F-D9C6-4C24-BEE6-2D29C7DC00B0",
-            "startDecorationType" : 0,
-            "borderOptions" : {
-              "lineJoinStyle" : 1,
-              "do_objectID" : "6FD5A81D-4067-43F6-A6C5-CAB53B9E88C9",
-              "_class" : "borderOptions",
-              "isEnabled" : false,
-              "lineCapStyle" : 1,
-              "dashPattern" : [
-                1,
-                1,
-                1
-              ]
             },
-            "fills" : [
-              {
-                "_class" : "fill",
-                "color" : {
-                  "red" : 0.97077518701553345,
-                  "_class" : "color",
-                  "alpha" : 1,
-                  "blue" : 0.1094621494412422,
-                  "green" : 0.9072384238243103
-                },
-                "gradient" : {
-                  "stops" : [
-                    {
-                      "color" : {
-                        "red" : 0.1894279420375824,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.68126308917999268,
-                        "green" : 0.13685229420661929
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 0
-                    },
-                    {
-                      "color" : {
-                        "red" : 0.32441157102584839,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.99385958909988403,
-                        "green" : 0.62813615798950195
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 0.47524753212928772
-                    },
-                    {
-                      "color" : {
-                        "red" : 0.70630878210067749,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.31623336672782898,
-                        "green" : 0.92678987979888916
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 1
-                    }
-                  ],
-                  "gradientType" : 0,
-                  "to" : "{1.0125781297683716, 0.49750000238418579}",
-                  "_class" : "gradient",
-                  "elipseLength" : 1,
-                  "from" : "{0.0025781251024454832, 0.49750000238418579}"
-                },
-                "fillType" : 0,
-                "noiseIntensity" : 0,
-                "patternFillType" : 1,
-                "patternTileScale" : 1,
-                "noiseIndex" : 0,
-                "isEnabled" : true
-              }
-            ],
-            "contextSettings" : {
-              "do_objectID" : "A6C8C75D-8527-402C-91F3-936EFD64FCB4",
-              "_class" : "graphicsContextSettings",
-              "blendMode" : 1,
-              "opacity" : 0.64311594202898548
-            },
-            "endDecorationType" : 0
-          },
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 178,
-            "constrainProportions" : false,
-            "do_objectID" : "1C57501A-6244-4729-9E9B-AC56561113B0",
-            "x" : 162,
-            "width" : 126,
-            "y" : 109
-          },
-          "do_objectID" : "3D1566DD-E893-41FA-B3C3-BC52CF24224E",
-          "hasClickThrough" : false,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "67440185-0D17-4C4B-B899-CFADBC79F906",
-            "includedLayerIds" : [
-
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
-
-            ]
-          },
-          "layerListExpandedType" : 1,
-          "windingRule" : 1,
-          "isFlippedVertical" : false,
-          "clippingMaskMode" : 0,
-          "name" : "Oval",
-          "isVisible" : true,
-          "hasClippingMask" : false,
-          "layers" : [
             {
               "isFlippedHorizontal" : false,
               "rotation" : 0,
@@ -438,7 +311,7 @@
                 "height" : 178,
                 "constrainProportions" : false,
                 "do_objectID" : "1566F9AD-0D75-4D81-9258-3F7BBBEB3166",
-                "x" : 0,
+                "x" : 62.629708459607741,
                 "width" : 126,
                 "y" : 0
               },
@@ -459,7 +332,7 @@
               "edited" : false,
               "isFlippedVertical" : false,
               "nameIsFixed" : false,
-              "name" : "Path",
+              "name" : "Oval",
               "isVisible" : true,
               "resizingType" : 0,
               "isClosed" : true,
@@ -509,147 +382,20 @@
               "shouldBreakMaskChain" : false,
               "pointRadiusBehaviour" : 1,
               "_class" : "oval",
-              "booleanOperation" : -1,
+              "booleanOperation" : 0,
               "resizingConstraint" : 63
-            }
-          ],
-          "nameIsFixed" : false,
-          "resizingType" : 0,
-          "isLocked" : false,
-          "shouldBreakMaskChain" : false,
-          "_class" : "shapeGroup",
-          "resizingConstraint" : 63
-        },
-        {
-          "isFlippedHorizontal" : false,
-          "style" : {
-            "_class" : "style",
-            "miterLimit" : 10,
-            "do_objectID" : "B0AA82B3-81DD-4826-9D24-B42D298EF55D",
-            "startDecorationType" : 0,
-            "borderOptions" : {
-              "lineJoinStyle" : 1,
-              "do_objectID" : "AFC3CDA1-B16F-4B8C-A3DD-173C0AC0B5C6",
-              "_class" : "borderOptions",
-              "isEnabled" : false,
-              "lineCapStyle" : 1,
-              "dashPattern" : [
-                1,
-                1,
-                1
-              ]
             },
-            "fills" : [
-              {
-                "_class" : "fill",
-                "color" : {
-                  "red" : 0.97077518701553345,
-                  "_class" : "color",
-                  "alpha" : 1,
-                  "blue" : 0.1094621494412422,
-                  "green" : 0.30240914274295588
-                },
-                "gradient" : {
-                  "stops" : [
-                    {
-                      "color" : {
-                        "red" : 0.1894279420375824,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.68126308917999268,
-                        "green" : 0.13685229420661929
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 0
-                    },
-                    {
-                      "color" : {
-                        "red" : 0.32441157102584839,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.99385958909988403,
-                        "green" : 0.62813615798950195
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 0.47524753212928772
-                    },
-                    {
-                      "color" : {
-                        "red" : 0.70630878210067749,
-                        "_class" : "color",
-                        "alpha" : 1,
-                        "blue" : 0.31623336672782898,
-                        "green" : 0.92678987979888916
-                      },
-                      "_class" : "gradientStop",
-                      "position" : 1
-                    }
-                  ],
-                  "gradientType" : 0,
-                  "to" : "{1.0125781297683716, 0.49750000238418579}",
-                  "_class" : "gradient",
-                  "elipseLength" : 1,
-                  "from" : "{0.0025781251024454832, 0.49750000238418579}"
-                },
-                "fillType" : 0,
-                "noiseIntensity" : 0,
-                "patternFillType" : 1,
-                "patternTileScale" : 1,
-                "noiseIndex" : 0,
-                "isEnabled" : true
-              }
-            ],
-            "contextSettings" : {
-              "do_objectID" : "1ACF3F0D-9F2D-4F67-824D-EC78C2F41E07",
-              "_class" : "graphicsContextSettings",
-              "blendMode" : 1,
-              "opacity" : 0.64311594202898548
-            },
-            "endDecorationType" : 0
-          },
-          "rotation" : -27,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 178,
-            "constrainProportions" : false,
-            "do_objectID" : "CB14F723-6CEF-474B-8479-E6F775F915AD",
-            "x" : 36,
-            "width" : 126,
-            "y" : 310
-          },
-          "do_objectID" : "6D2F0AA3-1ADA-4597-A9B3-3D19D6FF8C81",
-          "hasClickThrough" : false,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "0A7C3E77-95D8-438E-A665-EA2353EFEE3E",
-            "includedLayerIds" : [
-
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
-
-            ]
-          },
-          "layerListExpandedType" : 0,
-          "windingRule" : 1,
-          "isFlippedVertical" : false,
-          "clippingMaskMode" : 0,
-          "name" : "Oval",
-          "isVisible" : true,
-          "hasClippingMask" : false,
-          "layers" : [
             {
               "isFlippedHorizontal" : false,
-              "rotation" : 0,
+              "rotation" : -27,
               "frame" : {
                 "_class" : "rect",
                 "height" : 178,
                 "constrainProportions" : false,
                 "do_objectID" : "4D333FE2-0FC1-4225-9358-FAFF29A31CDF",
-                "x" : 0,
+                "x" : 6.1682739602945844,
                 "width" : 126,
-                "y" : 0
+                "y" : 82.900982136356191
               },
               "do_objectID" : "714F3E37-260E-46D5-B3C8-5E7C296B50A3",
               "layerListExpandedType" : 0,
@@ -668,7 +414,7 @@
               "edited" : false,
               "isFlippedVertical" : false,
               "nameIsFixed" : false,
-              "name" : "Path",
+              "name" : "Oval",
               "isVisible" : true,
               "resizingType" : 0,
               "isClosed" : true,
@@ -718,7 +464,7 @@
               "shouldBreakMaskChain" : false,
               "pointRadiusBehaviour" : 1,
               "_class" : "oval",
-              "booleanOperation" : -1,
+              "booleanOperation" : 0,
               "resizingConstraint" : 63
             }
           ],
